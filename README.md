@@ -17,3 +17,6 @@ CC184 Complejidad algorítmica
 | 6 | Integrante 2: Definir algoritmo en alto nivel | Irene |
 | 7 | Producir reporte de actividades | Daniel |
 | 8 | Incluir URL de video en youtube | Irene |
+
+## Video de youtube
+https://youtube.com/playlist?list=PLn6bvdt9Kj2B8JuMBXCTUHJH-H3lM14Qd
